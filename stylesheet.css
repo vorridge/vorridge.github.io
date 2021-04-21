@@ -534,7 +534,7 @@ ul li {
 	}
 	.header{
 		background-image: url('pic7.webp');
-		background-color: #F7F7F7;
+		/*background-color: #F7F7F7;*/
 		background-repeat: no-repeat;
 		background-size: cover;
 		position: relative;
